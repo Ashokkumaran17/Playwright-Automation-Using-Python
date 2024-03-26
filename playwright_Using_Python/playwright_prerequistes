@@ -1,0 +1,3 @@
+Install the package:pytest-playwright
+Install the browser by issueing playwright install command
+(venv) PS C:\Users\SSDADMIN\PycharmProjects\MyProject_2023\playwright_Using_Python> playwright install
